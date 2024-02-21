@@ -20,4 +20,6 @@ Thank you for taking the time to visit my profile. I am excited about the opport
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaKarmoker)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaKarmoker&rank_icon=github&theme=radical)
 
-![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,nodejs,mongodb,vscode,idea,java,mysql)
+<!--- ![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,nodejs,mongodb,vscode,idea,java,mysql) --->
+
+![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,vscode,idea,mysql)
