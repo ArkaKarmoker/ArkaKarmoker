@@ -22,4 +22,4 @@ Thank you for taking the time to visit my profile. I am excited about the opport
 
 <!--- ![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,nodejs,mongodb,vscode,idea,java,mysql) --->
 
-![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,vscode,idea,mysql)
+![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,vscode,idea,mysql,react)
