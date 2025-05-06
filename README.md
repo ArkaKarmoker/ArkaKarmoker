@@ -1,25 +1,63 @@
-<!---
-ArkaKarmoker/ArkaKarmoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- ![Into](https://user-images.githubusercontent.com/91338507/190421115-e71f143f-32af-4734-83e4-1d4c9f8a7b49.png) -->
-![Intro](https://user-images.githubusercontent.com/91338507/211417231-6819ffe9-ffbe-432b-8472-81cd7621d2d2.png)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91338507/211417231-6819ffe9-ffbe-432b-8472-81cd7621d2d2.png" alt="Intro Banner" />
+</p>
 
-Hello, I'm [Arka Karmoker](https://www.instagram.com/arka_karmoker/), a Python developer with a passion for software development. I'm currently pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at [North South University](http://www.northsouth.edu/) in Dhaka, Bangladesh. 
+<h1 align="center">Hi there 👋, I'm <a href="https://www.instagram.com/arka_karmoker/" target="_blank">Arka Karmoker</a></h1>
 
-My main area of expertise lies in Python programming, and I am constantly working on improving my abilities and expertise in this versatile language. I have experience working with technologies such as HTML, CSS, JavaScript, and Bootstrap, which complement my proficiency in Python.
+<p align="center">
+  🎓 Computer Science & Engineering student at <a href="http://www.northsouth.edu/" target="_blank">North South University</a><br>
+  💻 Passionate Python Developer | Aspiring Software Engineer<br>
+  🚀 Building real-world solutions with code<br>
+  📍 Based in Dhaka, Bangladesh
+</p>
 
-I am dedicated to building high-quality software solutions and thrive in collaborative environments where I can contribute my knowledge and learn from others. I am committed to delivering efficient and scalable code, and I am always eager to learn new technologies and stay up-to-date with industry trends.
+---
 
-I have already completed several projects using Python, and I am continuously working on new projects that showcase my skills and demonstrate my ability to solve real-world problems.
+### 👨‍💻 About Me
 
-Thank you for taking the time to visit my profile. I am excited about the opportunities that lie ahead in my software development journey.
-<br><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaKarmoker&layout=donut)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaKarmoker&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaKarmoker)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaKarmoker&rank_icon=github&theme=radical)
+- 👨‍🎓 Currently pursuing my BSc in CSE from **North South University**, Dhaka.
+- 🐍 Passionate about **Python** and its endless possibilities.
+- 💻 Experienced in Django backend development — building secure, scalable, and feature-rich web applications.
+- 🤖 Exploring the world of Machine Learning and AI to solve real-world problems through data-driven models.
+- 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery** and always exploring more!
+- ⚛️ Currently learning React and Next.js to enhance my frontend development skills and build dynamic web applications.
+- 💡 Strong focus on **clean code**, **efficiency**, and **problem solving**.
+- 🎯 Aspiring Full-Stack Developer — working towards mastering both frontend and backend technologies.
+- 🤝 Love collaborating with others, sharing knowledge, and working on meaningful projects.
+- 📚 Always learning and staying up to date with the latest tech trends.
 
-<!--- ![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,nodejs,mongodb,vscode,idea,java,mysql) --->
+---
 
-![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,vscode,idea,mysql,react)
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,jquery,bootstrap,react,mysql,postgres,vscode,idea,sklearn,tensorflow" alt="Skills" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArkaKarmoker&show_icons=true&theme=radical&rank_icon=github" alt="Arka's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaKarmoker&layout=donut&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arkakarmoker/) <!-- Add your LinkedIn link here if available -->
+- 📸 [Instagram](https://www.instagram.com/arka_karmoker/)
+- ✉️ karmokerarka@gmail.com <!-- Replace with your real email or contact -->
+
+---
+
+<p align="center">
+  🚀 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+</p>
+<p align="center">Thanks for visiting my profile! 🌟</p>
