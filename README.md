@@ -53,7 +53,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arkakarmoker/) <!-- Add your LinkedIn link here if available -->
 - 📸 [Instagram](https://www.instagram.com/arka_karmoker/)
-- 📊 [Kaggle]([https://www.instagram.com/arka_karmoker/](https://www.kaggle.com/arkakarmoker))
+- 📊 [Kaggle](https://www.kaggle.com/arkakarmoker)
 - ✉️ karmokerarka@gmail.com <!-- Replace with your real email or contact -->
 
 ---
