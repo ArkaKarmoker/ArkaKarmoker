@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91338507/211417231-6819ffe9-ffbe-432b-8472-81cd7621d2d2.png" alt="Intro Banner" />
+  <img width="1920" height="1080" alt="Copy of Web Application Developer" src="https://github.com/user-attachments/assets/c8cc391f-ee69-43ce-8c7a-33cff0f38a44" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <a href="https://www.instagram.com/arka_karmoker/" target="_blank">Arka Karmoker</a></h1>
