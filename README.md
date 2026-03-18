@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img width="1920" height="1080" alt="Copy of Web Application Developer" src="https://github.com/user-attachments/assets/c8cc391f-ee69-43ce-8c7a-33cff0f38a44" />
+  <img width="1920" height="1080" alt="Arka Karmoker - Python Developer" src="https://github.com/user-attachments/assets/df6d4640-1a54-4892-ae57-5f13a636105c" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm <a href="https://www.instagram.com/arka_karmoker/" target="_blank">Arka Karmoker</a></h1>
 
