@@ -17,7 +17,10 @@
   🎓 B.Sc. in Computer Science & Engineering — <a href="http://www.northsouth.edu/" target="_blank">North South University</a> (2021 – 2026)<br>
   💻 Software Engineer & Backend Developer specializing in Python & Django<br>
   🤖 Building scalable web applications with advanced AI integration<br>
-  📍 Dhaka, Bangladesh
+  📍 Dhaka, Bangladesh<br><br>
+  <a href="https://arkakarmoker.com/resume" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_Resume-00C7B7?style=for-the-badge&logoColor=white" alt="View Resume" />
+  </a>
 </p>
 
 ---
